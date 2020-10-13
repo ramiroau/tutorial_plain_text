@@ -1,0 +1,36 @@
+[
+	{
+		"id": "post2010",
+		"type": "article-journal",
+		"container-title": "California Law Review",
+		"issue": "4",
+		"page": "1319–1350",
+		"source": "Google Scholar",
+		"title": "Theorizing disagreement: Reconceiving the relationship between law and politics",
+		"title-short": "Theorizing disagreement",
+		"URL": "http://www.jstor.org/stable/27896713",
+		"volume": "98",
+		"author": [
+			{
+				"family": "Post",
+				"given": "Robert"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2014",
+					12,
+					7
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	}
+]
